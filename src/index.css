@@ -7,7 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.test {
+  font-size:larger;
+  color: brown;
+}
+
+center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table, th, td {
+  border:1px solid rgb(56, 13, 246);
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
